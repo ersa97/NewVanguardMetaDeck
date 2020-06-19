@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430268380928",
+    "firebase_url": "https://vanguardmetadeck.firebaseio.com",
+    "project_id": "vanguardmetadeck",
+    "storage_bucket": "vanguardmetadeck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430268380928:android:4ba0dcec82d860b99ae5e5",
+        "android_client_info": {
+          "package_name": "com.example.vanguardmetadeck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430268380928-7332nhn203kqdavs3drmr02slb9qnr9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhvq9H_M_C3SKXWt-iOYcmRXY0isCOaAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430268380928-7332nhn203kqdavs3drmr02slb9qnr9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
